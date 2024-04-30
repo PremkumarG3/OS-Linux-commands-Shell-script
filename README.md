@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-## Developed By: PREM KUMAR G
-## Reg.NO: 212223230158
+#### Developed By: PREM KUMAR G
+#### Reg.NO: 212223230158
 # AIM:
 To practice Linux Commands and Shell Scripting
 
