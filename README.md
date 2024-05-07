@@ -1521,7 +1521,6 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
-
 ```
 7         bcdfghj
 8	  abcdfghj
@@ -1536,12 +1535,7 @@ awk -f nc.awk data.dat
 total characters 75
 Number of Lines are 10
 No of Words count: 10
-
 ```
-
-
-
- 
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1582,77 +1576,6 @@ Enter the number
 33
 Number is palindrome
 locathost:~#
-
-
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # RESULT:
 The Commands are executed successfully.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
